@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=14eafa21_002Da0f6_002D4de2_002Da5a4_002Dd9ecbd9a168f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ApiGET_OneRequestInOneHourPerUserPass123 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::49B51A16-EC67-48B1-97EC-44C64297A55F::.NETCoreApp,Version=v3.1::RateLimitAttribute.Tests.DemoControllerTests.ApiGET_OneRequestInOneHourPerUserPass123&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=15d6f0ef_002D9c33_002D44e6_002Da096_002Db3e56982e895/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ApiGET_OneRequestInOneHourPerUserPass123" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;49B51A16-EC67-48B1-97EC-44C64297A55F/f:DemoControllerTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
